@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="LGPL-3.0"
+
+[[mods]]
+modId="veinminerrevived"
+version="1.0.0"
+displayName="Vein Miner Revived"
+logoFile="logo.png"
+authors="LukieDoggo (aka LukieD04 on GitHub)"
+description='''
+Vein Miner Revived brings back the beloved vein mining functionality from the classic era to modern Minecraft.
+Mine entire veins of ore (from other mods too!) with our smart vein mining algorithm!
+'''
